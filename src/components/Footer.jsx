@@ -5,7 +5,7 @@ const Footer = () => (
         <div className="Footer-container">
             <div className="Footer-content">
                 <div className="Footer-logo">
-                    Colitas
+                © 2020 Copyright: Batch 38 SJ
                 </div>
                 <div className="Footer-social">
                     Social
