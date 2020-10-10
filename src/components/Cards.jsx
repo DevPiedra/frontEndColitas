@@ -1,10 +1,10 @@
 import React from 'react';
 
-const PetsList = () => (
-    <div className="PetsList">
-        <div className="PetsList-container">
-            <div className="PetsList-content">
-                <div className="PetsList-title">
+const Cards = () => (
+    <div className='Cards'>
+        <div className="Cards-container">
+            <div className="Cards-content">
+                <div className="Cards-title">
                     <h3>Nuestras Colitas</h3>
                 </div>
                 <div className="card-deck">
@@ -39,10 +39,9 @@ const PetsList = () => (
                         </div>
                     </div>
                 </div>
-
             </div>
         </div>
     </div>
 );
 
-export default PetsList;
+export default Cards; 
